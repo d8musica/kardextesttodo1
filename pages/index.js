@@ -29,6 +29,7 @@ const Home = () => {
         </>
       )}
 
+
       <style jsx>{`
         li {
           margin-bottom: 0.5rem;
@@ -39,6 +40,7 @@ const Home = () => {
         }
       `}</style>
     </Layout>
+    
   )
 }
 
